@@ -1082,6 +1082,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [minio](https://github.com/minio/minio) - Minio is a distributed object storage server.
 * [nsq](http://nsq.io/) - A realtime distributed messaging platform.
 * [yakvs](https://github.com/sci4me/yakvs) - Small, networked, in-memory key-value store.
+* [Suxm](https://github.com/isurfer21/Suxm) - A blazing fast lightweight command-line based micro webserver
 
 ## Template Engines
 
